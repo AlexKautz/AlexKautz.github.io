@@ -55,7 +55,7 @@ footer:
 
 # Build settings
 # theme: minima
-theme: bay_jekyll_theme
+remote_theme: bay_jekyll_theme
 plugins:
   - jekyll-feed
 
