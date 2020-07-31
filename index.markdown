@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/horse.jpg
+  src: /assets/img/me.jpg
   alt: Picture of Alex Kautz
 ---
 
