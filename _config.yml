@@ -33,7 +33,7 @@ header:
   pages:
     - name: Home
       slug: /     # <-- index.md
-    - name: Projects # <-- projects.md
+    - name: Experience # <-- experience.md
     - name: Blog  # <-- blog.md
 
 footer:
