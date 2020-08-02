@@ -35,6 +35,7 @@ header:
     - name: Home
       slug: /     # <-- index.md
     - name: Experience # <-- experience.md
+    - name: Resume # <- resume.md
     - name: Blog  # <-- blog.md
 
 footer:
@@ -47,8 +48,8 @@ footer:
     # - name: Twitter
     #   link: http://twitter.com/YourTwitterUsername
     #   username: "@YourTwitterUsername"
-    - name: Facebook
-      link: https://www.facebook.com/alex.kautz.353
+    # - name: Facebook
+    #   link: https://www.facebook.com/alex.kautz.353
     - name: LinkedIn
       link: https://www.linkedin.com/in/alex-kautz-144002134/
     - name: GitHub
