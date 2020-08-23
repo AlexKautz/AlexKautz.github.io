@@ -4,7 +4,7 @@ title:  "Paper Review: Test Coverage in Python Programs"
 date:   2020-08-23 17:45:00 -0400
 categories: unittesting paper academia
 ---
-# Paper Review: [Test Coverage in Python Programs](https://www.cs.ucdavis.edu/~devanbu/msr2019.pdf)
+# [Link to paper](https://www.cs.ucdavis.edu/~devanbu/msr2019.pdf)
 
 ## Intro
 Recently a friend suggested I combine my interests in software engineering and academia and check out the work of [Prem Devanbu](https://www.cs.ucdavis.edu/~devanbu/). Prem is a Professor at the University of California at Davis and a co-director of [the DECAL Lab](https://decallab.cs.ucdavis.edu/). Among other things, Prem analyzes both the processes of software development, and the code it produces.
@@ -63,7 +63,7 @@ For ast_depth, `1-e^(-0.210) = 0.1894` means that for every layer of depth a sta
 
 For node_type factors, The authors compared the probability of each node type  being covered against a baseline type, assignment. ( x = 3  is an example of an assignment).  
 So a “For” type statement is `1-e^(-0.243) = 0.2157 = %21.57` less likely to be covered then an assignment.  
-A “If” type statement is `1-e^(0.286) = -0.3311 = -%33.11` less likely to be covered then an assignment.  note this percentage is negative, so really A “If” type statement is %33.11 more likely to be covered then a assignment.  
+A “If” type statement is `1-e^(0.286) = -0.3311 = -%33.11` less likely to be covered then an assignment.  note this percentage is negative, so really A “If” type statement is `%33.11` more likely to be covered then a assignment.  
 A “Exception Handler” type statement is `1-e^(-1.680) = 0.8136 = %81.36` less likely to be covered then an assignment.  
 And so on.
 
