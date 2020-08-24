@@ -61,7 +61,7 @@ Now to interpret the values:
 
 For ast_depth, `1-e^(-0.210) = 0.1894` means that for every layer of depth a statement is, it gets 18.94% less likely to be covered.
 
-For node_type factors, The authors compared the probability of each node type  being covered against a baseline type, assignment. ( x = 3  is an example of an assignment).  
+For node_type factors, The authors compared the probability of each node type  being covered against a baseline type, assignment. ( `x = 3`  is an example of an assignment).  
 So a “For” type statement is `1-e^(-0.243) = 0.2157 = %21.57` less likely to be covered then an assignment.  
 A “If” type statement is `1-e^(0.286) = -0.3311 = -%33.11` less likely to be covered then an assignment.  note this percentage is negative, so really A “If” type statement is `%33.11` more likely to be covered then a assignment.  
 A “Exception Handler” type statement is `1-e^(-1.680) = 0.8136 = %81.36` less likely to be covered then an assignment.  
