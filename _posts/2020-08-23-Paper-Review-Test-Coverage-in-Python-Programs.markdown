@@ -72,8 +72,9 @@ The authors point out the results on the effect of the depth of a statement and 
 ## Analysis
 
 Unit testing is a powerful technique. While working as a intern for [1010Data](https://www.1010data.com/), it helped me in two ways:
-Caching bugs and newly broken code as I implemented new features and fixed old ones.
-Helping me understand the problem deeper as I wrote new unit tests.
+- Caching bugs and newly broken code as I implemented new features and fixed old ones.
+- Helping me understand the problem deeper as I wrote new unit tests.
+
 These two features worked in harmony as I used test-driven development. This means I would write tests for a certain problem before the code to solve it.
 The tests I found hardest to write were one that required lots of setup to even get the program into a state where it could perform what I was testing.
 
