@@ -1,1 +1,6 @@
-{ "typescript.suggest.paths": false }
+{
+    "typescript.suggest.paths": false,
+    "cSpell.words": [
+        "Leetcode"
+    ]
+}
