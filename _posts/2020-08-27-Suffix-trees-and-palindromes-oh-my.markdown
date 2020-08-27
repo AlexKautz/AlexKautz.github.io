@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Suffix trees and palindromes oh my!"
+title:  "(Currently writing) Suffix trees and palindromes oh my!"
 date:   2020-08-27 12:41:00 -0400
 categories: SuffixTrees Palindromes Leetcode academia
 ---
