@@ -35,7 +35,7 @@ Finally, I talked to the professor on the class’s behalf, using my connection 
 My friends and I passed the class with much better grades than we received on the midterm. Getting through that class was the most exciting part of my college career, and it made me realize that interacting with others was my favorite part of life.
 
 # Assistive technology 
-*This part of the post was taken from a cover letter I wrote for Microsoft’s ability hiring program,  which focuses on hiring Engineers with disabilities. Microsoft in particular has been responsible for a lot of technology that has helped me, so I was very excited to find it.*
+*This part of the post was taken from a cover letter I wrote for Microsoft’s ability hiring program,  which focuses on hiring engineers with disabilities. Microsoft in particular has been responsible for a lot of technology that has helped me, so I was very excited to find it.*
 
 My first interaction with assistive technology was in middle school. My teachers realized that my inability to spell made my essays unreadable so they helped me learn to use Dragon Naturally Speaking. Using this voice dictation program, I could simply speak my essays out loud and they would be typed into Microsoft Word without any spelling errors. Dragon Naturally Speaking did make some grammatical errors, but it was the only voice dictation program on the market. It enabled me to finally express my ideas without being held back, and I successfully graduated from high school with straight A's, taking many advanced classes.
 
