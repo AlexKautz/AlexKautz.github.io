@@ -4,7 +4,7 @@ title:  "How people and technology turned my differences into strengths"
 date:   2020-09-12 14:00:00 -0400
 categories: disability, technology, people
 ---
-I am currently writing this blog post in Google Docs using it's integrated voice typing. I hit ⌘+Shift+S and say “comma and then the text appears”, and then the text appears. To be honest, I use voice typing to write all of the posts in my blog, and without it, they would be impossible. In this blog post, I want to describe my experience of being neurodiverse. I also want to talk about the two things that have helped me the most: people and technology.
+I am currently writing this blog post in Google Docs using its integrated voice typing. I hit ⌘+Shift+S and say “comma and then the text appears”, and then the text appears. To be honest, I use voice typing to write all of the posts in my blog, and without it, they would be impossible. In this blog post, I want to describe my experience of being neurodiverse. I also want to talk about the two things that have helped me the most: people and technology.
 
 # More than just a disability
 In 2005 I was diagnosed with the disability “[developmental prosopagnosia](https://www.faceblind.org/)” by neurologists at the University of Rochester Medical Center. Also called “face-blindness”, it is a disorder that affects perception and memory and prevents me from remembering people’s names and recognizing their faces. In one test I completed, I was significantly better remembering a series of faces when they were turned upside down rather than right side up. An upside-down face is just an object to be remembered like everything else, but in the correct orientation, it gets filed away in a special part of memory, a part of memory that I lack.
@@ -35,7 +35,7 @@ Finally, I talked to the professor on the class’s behalf, using my connection 
 My friends and I passed the class with much better grades than we received on the midterm. Getting through that class was the most exciting part of my college career, and it made me realize that interacting with others was my favorite part of life.
 
 # Assistive technology 
-*This part of the post was taken from a cover letter I wrote for Microsoft’s ability hiring program,  which focuses on hiring engineers with disabilities. Microsoft in particular has been responsible for a lot of technology that has helped me, so I was very excited to find it.*
+<!-- *This part of the post was taken from a cover letter I wrote for Microsoft’s ability hiring program,  which focuses on hiring engineers with disabilities. Microsoft in particular has been responsible for a lot of technology that has helped me, so I was very excited to find it.* -->
 
 My first interaction with assistive technology was in middle school. My teachers realized that my inability to spell made my essays unreadable so they helped me learn to use Dragon Naturally Speaking. Using this voice dictation program, I could simply speak my essays out loud and they would be typed into Microsoft Word without any spelling errors. Dragon Naturally Speaking did make some grammatical errors, but it was the only voice dictation program on the market. It enabled me to finally express my ideas without being held back, and I successfully graduated from high school with straight A's, taking many advanced classes.
 
