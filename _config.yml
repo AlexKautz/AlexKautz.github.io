@@ -45,9 +45,9 @@ footer:
       value: alex.goodheart.kautz@gmail.com
       link: mailto:alex.goodheart.kautz@gmail.com
   follow:
-    # - name: Twitter
-    #   link: http://twitter.com/YourTwitterUsername
-    #   username: "@YourTwitterUsername"
+    - name: Twitter
+      link: https://twitter.com/AlexKautz4
+      username: "@AlexKautz4"
     # - name: Facebook
     #   link: https://www.facebook.com/alex.kautz.353
     - name: LinkedIn
