@@ -3,11 +3,11 @@ layout: work
 title: Experience
 slug: /work
 items:
-  - title: Software Developer for Microsoft
+  - title: Software Engineer for Microsoft
     image:
       src: /assets/img/Microsoft_logo_box.svg
       alt: Microsoft Logo
-    description: I am currently working as a Software engineer for Microsoft on the Windows Defender Team.
+    description: I am currently working as a Software Engineer for Microsoft on the Windows Defender Team.
   - title: Internship at 1010Data
     image:
       src: /assets/img/1010data.png
