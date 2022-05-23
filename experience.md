@@ -7,7 +7,7 @@ items:
     image:
       src: /assets/img/Microsoft_logo_box.svg
       alt: Microsoft Logo
-    description: I am currently working as a Software Engineer for Microsoft on the Windows Defender Team.
+    description: I am currently working as a Software Engineer for Microsoft on the Windows Defender Team  with a focus on Python and Machine Learning.
   - title: Internship at 1010Data
     image:
       src: /assets/img/1010data.png
