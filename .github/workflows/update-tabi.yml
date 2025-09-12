@@ -1,10 +1,6 @@
 name: Update tabi theme
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "5 0 * * 1"  # Weekly on Mondays at 5 past midnight UTC
-
+on: workflow_dispatch
 jobs:
   update-tabi:
     runs-on: ubuntu-latest
