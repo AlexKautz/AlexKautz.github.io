@@ -9,4 +9,4 @@ max_posts = 0
 
 Welcome to my personal site! Here you can view my resume and take a look at my programming blog.
 
-# 🚧👷 Site is currently under construction 🏗️🚧
+*Powered by [Zola](https://www.getzola.org) and [tabi](https://github.com/welpo/tabi).*
