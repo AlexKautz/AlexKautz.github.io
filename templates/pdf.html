@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block main_content %}
+    {% if section.extra.section_path -%}
+        {% set section = get_section(path=section.extra.section_path) %}
+    {% endif -%}
+
+    {{ macros_page_header::page_header(title=section.title) }}
+
+    <main>
+        <a href="{{section.extra.pdf_path}}">Download</a>
+    </main>
+
+    {% if paginator %}
+        {%- include "partials/paginate.html" -%}
+    {% endif %}
+{% endblock main_content %}
