@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://alexkautz.github.io/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <tabi:metadata xmlns:tabi="https://github.com/welpo/tabi">
+        <tabi:base_url>https:&#x2F;&#x2F;alexkautz.github.io</tabi:base_url>
+        <tabi:separator>
+            •
+        </tabi:separator>
+        <tabi:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It&#x27;s free.</tabi:about_feeds>
+        <tabi:visit_the_site>Visit website</tabi:visit_the_site>
+        <tabi:recent_posts>Recent posts</tabi:recent_posts>
+        <tabi:last_updated_on>Updated on $DATE</tabi:last_updated_on>
+        <tabi:default_theme>light</tabi:default_theme>
+        <tabi:post_listing_date>date</tabi:post_listing_date>
+        <tabi:current_section>Alex Kautz</tabi:current_section>
+    </tabi:metadata><title>Alex Kautz</title>
+        <subtitle>Alex Kautz Personal Website</subtitle>
+    <link href="https://alexkautz.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://alexkautz.github.io" rel="alternate" type="text/html"/>
+    <generator uri="https://www.getzola.org/">Zola</generator><updated>2020-09-12T00:00:00+00:00</updated><id>https://alexkautz.github.io/atom.xml</id><entry xml:lang="en">
+        <title>How people and technology turned my differences into strengths</title>
+        <published>2020-09-12T00:00:00+00:00</published>
+        <updated>2020-09-12T00:00:00+00:00</updated>
+        <author>
+            <name>Alex Kautz</name>
+        </author>
+        <link rel="alternate" href="https://alexkautz.github.io/blog/how-people-and-technology-turned-my-differences-into-strengths/" type="text/html"/>
+        <id>https://alexkautz.github.io/blog/how-people-and-technology-turned-my-differences-into-strengths/</id>
+        
+            <content type="html">&lt;p&gt;I am currently writing this blog post in Google Docs using its integrated voice typing. I hit ⌘+Shift+S and say “comma and then the text appears”, and then the text appears. To be honest, I use voice typing to write all of the posts in my blog, and without it, they would be impossible. In this blog post, I want to describe my experience of being neurodiverse. I also want to talk about the two things that have helped me the most: people and technology.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;more-than-just-a-disability&quot;&gt;More than just a disability&lt;&#x2F;h1&gt;
+&lt;p&gt;In 2005 I was diagnosed with the disability “&lt;a href=&quot;https:&#x2F;&#x2F;www.faceblind.org&#x2F;&quot;&gt;developmental prosopagnosia&lt;&#x2F;a&gt;” by neurologists at the University of Rochester Medical Center. Also called “face-blindness”, it is a disorder that affects perception and memory and prevents me from remembering people’s names and recognizing their faces. In one test I completed, I was significantly better remembering a series of faces when they were turned upside down rather than right side up. An upside-down face is just an object to be remembered like everything else, but in the correct orientation, it gets filed away in a special part of memory, a part of memory that I lack.&lt;&#x2F;p&gt;
+&lt;p&gt;In my case, things get worse. I can’t remember how to spell words. A spelling test I took in my senior year of high school measured my spelling level at “3rd grade”. I can’t memorize the way buildings are laid out, or the dates of historic events, or even mathematical axioms.&lt;&#x2F;p&gt;
+&lt;p&gt;There have been times in my life when I defined myself based only on the deficits described above. I focused so much on what I lacked, I forgot what I had. But in those moments I was dishonest.&lt;&#x2F;p&gt;
+&lt;p&gt;I am incredibly good at understanding processes. I may have lost the “what”, but I am blessed with the “why” and the “how”. I can write complex mathematical proofs that show the underlying meaning of equations. I can imagine how a soldier felt going into a war. I can understand why an author might use a river as a metaphor for life. Hopefully, I can write a good blog post too.&lt;&#x2F;p&gt;
+&lt;p&gt;What I mean by the phrase “more than just a disability” is that I define my difference from others not just by what I am lacking, but also by what I have. When I was young, psychologists described me as having splinter skills, incredible strengths in some areas, and profound weaknesses in other areas. If I could graph my abilities, instead of forming a nice bell curve, they would form sharp spikes in places like writing essays, and deep V’s in related places like spelling.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;people&quot;&gt;People&lt;&#x2F;h1&gt;
+&lt;p&gt;My favorite part of life is interacting with other people. In fact, these interactions have been my most powerful tool for succeeding with my unique psychology. When I collaborate with others, each of our strengths makes up for the other’s weaknesses. Because of this, I put a major emphasis in my life on receiving help and asking questions and, in turn, helping others and encouraging them to ask questions.&lt;&#x2F;p&gt;
+&lt;p&gt;In middle and high school I received lots of aid from my teachers. They were flexible about accommodations for tests and helped me learn the names of my peers. In order to receive this help, however, I had to learn to ask for it. I advocated for myself with each of my teachers and school leaders to help them understand my unique disability.&lt;&#x2F;p&gt;
+&lt;p&gt;College changed things. Again I made use of the disability department and advocated for myself to professors. But now I could find support from other students. My favorite memories were staying up late working on savagely hard math problems with my friends. They helped me remember the various axioms and fundamental laws of mathematics, and I helped them put it together into a proof. There is a very unique joy in productive teamwork, and I find it intoxicating.&lt;&#x2F;p&gt;
+&lt;p&gt;I remember having a supremely strict math teacher for my honors calculus 4 class  who pushed the class way too hard without providing any kind of empathy or emotional support. This caused a lot of pain, especially after most of the class failed the midterm. As a result, I took three immediate actions.&lt;&#x2F;p&gt;
+&lt;p&gt;First I went to every single office hour he had available to ask questions. I had a policy of continuing to ask until I fully understood every aspect of the topic we were studying that week.&lt;&#x2F;p&gt;
+&lt;p&gt;Second, I set up an every-other-day study group with my friends. This let us get through the ridiculous homework load in an enjoyable manner, and I was able to both provide a lot of help and receive help with the material. It was at this point I realized just how well you understand things when you teach them to others.&lt;&#x2F;p&gt;
+&lt;p&gt;Finally, I talked to the professor on the class’s behalf, using my connection from the office hours and my experience of advocating for myself with professors. It turns out that he actually believed that “you have a fundamental misunderstanding of linear algebra” was a positive and supportive message.&lt;&#x2F;p&gt;
+&lt;p&gt;My friends and I passed the class with much better grades than we received on the midterm. Getting through that class was the most exciting part of my college career, and it made me realize that interacting with others was my favorite part of life.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;assistive-technology&quot;&gt;Assistive technology&lt;&#x2F;h1&gt;
+&lt;!-- *This part of the post was taken from a cover letter I wrote for Microsoft’s ability hiring program,  which focuses on hiring engineers with disabilities. Microsoft in particular has been responsible for a lot of technology that has helped me, so I was very excited to find it.* --&gt;
+&lt;p&gt;My first interaction with assistive technology was in middle school. My teachers realized that my inability to spell made my essays unreadable so they helped me learn to use Dragon Naturally Speaking. Using this voice dictation program, I could simply speak my essays out loud and they would be typed into Microsoft Word without any spelling errors. Dragon Naturally Speaking did make some grammatical errors, but it was the only voice dictation program on the market. It enabled me to finally express my ideas without being held back, and I successfully graduated from high school with straight A’s, taking many advanced classes.&lt;&#x2F;p&gt;
+&lt;p&gt;In college, my work became much more difficult, but assistive technologies advanced to meet my needs. For example, mathematical formulas in my calculus classes could easily be written on paper, but then I was unable to write a text description of my work. On the other hand, I could dictate the text into a Word document but I couldn’t type in the equations efficiently. This is where the Microsoft Surface changed everything. Using my Surface, I could switch instantaneously from writing equations directly onto a Word document using my pen to dictating descriptive text using Dragon Naturally Speaking. I could now write a comprehensive mathematical proof easily.&lt;&#x2F;p&gt;
+&lt;p&gt;My work in computer science presented another challenge: programming without spelling words. Again assistive technologies had advanced to match my needs. Computers now had dictation built right into the operating system. This meant I could dictate code comments directly into my integrated developer environment (rather than being restricted to Microsoft Word). This, along with autocompletion, integrated spell checking, and the powerful text manipulation functionality of Vim keybindings allowed me to program freely. As a result, I was able to succeed in my classes, in an NSF-funded Research Experience for Undergraduates, and in a summer internship at 1010data in New York City.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h1&gt;
+&lt;p&gt;People and technology in my life have turned my differences into my strengths. I honestly can’t wait to collaborate with more people as my career grows. Likewise, I’m excited about the new accessibility technology around the corner. Now if I could only I could get Google’s voice to text to work in Vim… 🎤&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">A short history of my neurodiverse journey, and the technology and people that had an impact on it.</summary>
+        </entry><entry xml:lang="en">
+        <title>Paper Review: Test Coverage in Python Programs</title>
+        <published>2020-08-23T00:00:00+00:00</published>
+        <updated>2020-08-23T00:00:00+00:00</updated>
+        <author>
+            <name>Alex Kautz</name>
+        </author>
+        <link rel="alternate" href="https://alexkautz.github.io/blog/paper-review-test-coverage-in-python-programs/" type="text/html"/>
+        <id>https://alexkautz.github.io/blog/paper-review-test-coverage-in-python-programs/</id>
+        
+            <content type="html">&lt;h3 id=&quot;link-to-paper&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.cs.ucdavis.edu&#x2F;~devanbu&#x2F;msr2019.pdf&quot;&gt;&lt;strong&gt;Link to paper&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h2 id=&quot;intro&quot;&gt;Intro&lt;&#x2F;h2&gt;
+&lt;p&gt;Recently a friend suggested I combine my interests in software engineering and academia and check out the work of &lt;a href=&quot;https:&#x2F;&#x2F;www.cs.ucdavis.edu&#x2F;~devanbu&#x2F;&quot;&gt;Prem Devanbu&lt;&#x2F;a&gt;. Prem is a Professor at the University of California at Davis and a co-director of &lt;a href=&quot;https:&#x2F;&#x2F;decallab.cs.ucdavis.edu&#x2F;&quot;&gt;the DECAL Lab&lt;&#x2F;a&gt;. Among other things, Prem analyzes both the processes of software development, and the code it produces.&lt;&#x2F;p&gt;
+&lt;p&gt;I’m excited by this new topic! The beauty I find software development is that at its best it is exponential. People don’t just write software, they write software to help them write software, and software to help them write that. I find the thrill of accelerating my creative process addicting. I am always looking for new IDEs, obscure programming languages, and methodologies. Today’s paper covers one of the most popular catalyst’s for in software development: the humble unit test.&lt;&#x2F;p&gt;
+&lt;p&gt;In 2019 Prem Devanbu, Casey Casalnuovo, and Hongyu Zhai published their paper “&lt;a href=&quot;ttps:&#x2F;&#x2F;www.cs.ucdavis.edu&#x2F;~devanbu&#x2F;msr2019.pdf&quot;&gt;Test Coverage in Python Programs&lt;&#x2F;a&gt;”. This paper takes a look at three of the most popular open source Python projects, and examines the code coverage of their integrated unit tests.&lt;&#x2F;p&gt;
+&lt;p&gt;For the uninitiated, a unit test is a chunk of code designed to test the function of a piece of software you’re developing. For example if you’re creating a calculator, you might write a unit test to ensure asking &lt;code&gt;5 * 5&lt;&#x2F;code&gt; produces &lt;code&gt;25&lt;&#x2F;code&gt;, and asking &lt;code&gt;5 &#x2F; 0&lt;&#x2F;code&gt;  produces a well formatted message kindly reminding the user one can not devide by 0. For convenience, unit tests are generally written in the same language as the software being tested and are stored in the same repository. Many libraries are available to make reading unit tests easier.&lt;&#x2F;p&gt;
+&lt;p&gt;Although it’s outside the scope of this blog post, there is an interesting software development methodology called &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Test-driven_development&quot;&gt;test-driven development&lt;&#x2F;a&gt;, which as the name suggests builds software from the ground up based on testing it’s functionality.&lt;&#x2F;p&gt;
+&lt;p&gt;One important concept when it comes to unit testing is “code coverage”. Code is “covered” when it is run during a test. So the code coverage of a project is the subset of its code that is tested by its unit tests.&lt;&#x2F;p&gt;
+&lt;p&gt;A basic question you can ask about a project is: what percentage of the code is covered? The higher the percent, the less opportunity there is for unintended behavior to slip in in uncovered code. This has already been a research topic, and most unit testing libraries provide tools to see projects coverage percentages.&lt;&#x2F;p&gt;
+&lt;p&gt;Prem’s paper go’s further to ask “In general, what parts of a code base are uncovered?”.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;the-paper&quot;&gt;The Paper&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;em&gt;(I am simplifying the paper and methodology quite a bit, check out the full paper for the details.)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;To answer this question, the team looked at 4 major open source python projects:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Flask&lt;&#x2F;li&gt;
+&lt;li&gt;Matplotlib&lt;&#x2F;li&gt;
+&lt;li&gt;Pandas&lt;&#x2F;li&gt;
+&lt;li&gt;Scikit-learn&lt;&#x2F;li&gt;
+&lt;li&gt;Scrapy&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Then for each statement in the projects (for which the information was available) they noted:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Whether the statement was covered&lt;&#x2F;li&gt;
+&lt;li&gt;The “depth” of the statement in the code&lt;&#x2F;li&gt;
+&lt;li&gt;The type of the statement (If, Assert, ExceptHandler, etc.)&lt;&#x2F;li&gt;
+&lt;li&gt;How long ago the line was written&lt;&#x2F;li&gt;
+&lt;li&gt;The line number&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;1. Was obtained using a service called Codecov, that tracks code coverage for the five projects they analyzed.&lt;&#x2F;p&gt;
+&lt;p&gt;2. and 3. Were obtained using the python Library “ast”. AST Stands for abstract syntax tree and refers to the lower-level language python “compiles” into right before running. This language takes the form of a tree, with the depth of a  statement represented by its depth in the tree. Furthermore the nodes of the tree are marked with  the types of the source statements.&lt;&#x2F;p&gt;
+&lt;p&gt;4. Was found using Git, a very popular file versioning tool.&lt;&#x2F;p&gt;
+&lt;p&gt;5.  Was found by, well, counting the lines.&lt;&#x2F;p&gt;
+&lt;p&gt;They then used a logistic regression model[5] to model a statement’s chance of being covered (1.) based on (2.) - (5.).&lt;&#x2F;p&gt;
+&lt;p&gt;The results are summarized in their table II:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;table001.png&quot; alt=&quot;Table of data&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;The first thing to understand about this table is that the “Dependent Variable Factor” is on a logarithmic scale, so we need to plug it into &lt;code&gt;1-e^x&lt;&#x2F;code&gt;  in order to extract its meaning.
+For example with ast_depth: &lt;code&gt;1-e^(-0.210) = 0.1894&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Now to interpret the values:&lt;&#x2F;p&gt;
+&lt;p&gt;For ast_depth, &lt;code&gt;1-e^(-0.210) = 0.1894&lt;&#x2F;code&gt; means that for every layer of depth a statement is, it gets 18.94% less likely to be covered.&lt;&#x2F;p&gt;
+&lt;p&gt;For node_type factors, The authors compared the probability of each node type  being covered against a baseline type, assignment. ( &lt;code&gt;x = 3&lt;&#x2F;code&gt;  is an example of an assignment).&lt;br &#x2F;&gt;
+So a “For” type statement is &lt;code&gt;1-e^(-0.243) = 0.2157 = %21.57&lt;&#x2F;code&gt; less likely to be covered then an assignment.&lt;br &#x2F;&gt;
+A “If” type statement is &lt;code&gt;1-e^(0.286) = -0.3311 = -%33.11&lt;&#x2F;code&gt; less likely to be covered then an assignment.  note this percentage is negative, so really A “If” type statement is &lt;code&gt;%33.11&lt;&#x2F;code&gt; more likely to be covered then a assignment.&lt;br &#x2F;&gt;
+A “Exception Handler” type statement is &lt;code&gt;1-e^(-1.680) = 0.8136 = %81.36&lt;&#x2F;code&gt; less likely to be covered then an assignment.&lt;br &#x2F;&gt;
+And so on.&lt;&#x2F;p&gt;
+&lt;p&gt;The authors point out the results on the effect of the depth of a statement and whether the statement is an Exception Handler has on its chance of being covered as important.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;analysis&quot;&gt;Analysis&lt;&#x2F;h2&gt;
+&lt;p&gt;Unit testing is a powerful technique. While working as a intern for &lt;a href=&quot;https:&#x2F;&#x2F;www.1010data.com&#x2F;&quot;&gt;1010Data&lt;&#x2F;a&gt;, it helped me in two ways:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Caching bugs and newly broken code as I implemented new features and fixed old ones.&lt;&#x2F;li&gt;
+&lt;li&gt;Helping me understand the problem deeper as I wrote new unit tests.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;These two features worked in harmony as I used test-driven development. This means I would write tests for a certain problem before the code to solve it.
+The tests I found hardest to write were one that required lots of setup to even get the program into a state where it could perform what I was testing.&lt;&#x2F;p&gt;
+&lt;p&gt;This paper validates that experience since two of the categories of code that requires the most setup to test are:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Code that is deep in the syntax&lt;&#x2F;li&gt;
+&lt;li&gt;Code that handles exceptions&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Code that is deep in syntax requires setting a whole host of variables so the code pointer can even make it past the various if and switch statements.
+As for exceptions, I found I had to make modifications to the simulation environment chest to push the code to break. For example I had to  create a fake database in order to test database read and write exception handling.&lt;&#x2F;p&gt;
+&lt;p&gt;It makes sense then that unit tests that are harder to write are also the ones that are written less.
+Furthermore, the less time and energy a company wants to put into unit testing, the more these harder to test statements will be missed.
+The fallacy people think is “if a line of code is hard to test, it must not run frequently, and so it is not  as important as lines that are easy to test”.&lt;&#x2F;p&gt;
+&lt;p&gt;One solution to this is to construct more powerful unit testing tools and libraries,  which features targeting exception handling and deep statements.  For example, a program that upon selecting a line in an IDE  will generate a boilerplate unit test that runs that line. Then the programmer needs only to enter the expected output.  This can help with deeply nested statements.&lt;&#x2F;p&gt;
+&lt;p&gt;Making exception handling testing easier requires a greater focus on the environment in which you test your program. The Python Library “mock” is already  powerful enough for this, so maybe a rapper to allow using it in fewer lines or making it simpler would be effective.&lt;&#x2F;p&gt;
+&lt;p&gt;In any case this paper was very interesting.  I’m really excited to see other ways that software engineering can be studied from an academic perspective.&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">A review of the paper &quot;Test Coverage in Python Programs&quot; by Zhai, Casalnuovo, and Devanbu.</summary>
+        </entry>
+</feed>
