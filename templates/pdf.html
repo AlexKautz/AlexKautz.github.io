@@ -7,20 +7,8 @@
 
 {{ macros_page_header::page_header(title=section.title) }}
 
-{% set pdf_url = get_url(path=section.extra.pdf_path, trailing_slash=false) %}
-
 <main>
-    <p>DEBUG: PDF URL = {{ pdf_url }}</p>
-    <iframe src="/pdfjs/web/viewer.html?file={{ pdf_url }}" width="100%" height="800px" style="border: none;">
-        <p>Your browser does not support PDFs.
-            <a href="{{ pdf_url }}">Download the PDF</a>.
-        </p>
-    </iframe>
-    <iframe src="/pdfjs/web/viewer.html?file={{ section.extra.pdf_path }}" width="100%" height="800px" style="border: none;">
-        <p>Your browser does not support PDFs.
-            <a href="{{ section.extra.pdf_path }}">Download the PDF</a>.
-        </p>
-    </iframe>
+    <iframe src="{{ section.extra.pdf_path }}" frameborder="0" width="100%" height="900px"></iframe>
 </main>
 
 {% if paginator %}

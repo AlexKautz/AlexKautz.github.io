@@ -323,7 +323,7 @@ allowed_domains = [
     { directive = "media-src", domains = ["'self'"] },
     { directive = "script-src", domains = ["'self'"] },
     { directive = "style-src", domains = ["'self'"] },
-    { directive = "frame-src", domains = ["player.vimeo.com", "https://www.youtube-nocookie.com"] },
+    { directive = "frame-src", domains = ["'self'", "player.vimeo.com", "https://www.youtube-nocookie.com"] },
 ]
 
 # Enable the CSP directives configured (or default).
