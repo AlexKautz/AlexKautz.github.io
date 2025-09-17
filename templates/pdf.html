@@ -1,17 +1,29 @@
 {% extends "base.html" %}
 
 {% block main_content %}
-    {% if section.extra.section_path -%}
-        {% set section = get_section(path=section.extra.section_path) %}
-    {% endif -%}
+{% if section.extra.section_path -%}
+{% set section = get_section(path=section.extra.section_path) %}
+{% endif -%}
 
-    {{ macros_page_header::page_header(title=section.title) }}
+{{ macros_page_header::page_header(title=section.title) }}
 
-    <main>
-        <a href="{{section.extra.pdf_path}}">Download</a>
-    </main>
+{% set pdf_url = get_url(path=section.extra.pdf_path, trailing_slash=false) %}
 
-    {% if paginator %}
-        {%- include "partials/paginate.html" -%}
-    {% endif %}
+<main>
+    <p>DEBUG: PDF URL = {{ pdf_url }}</p>
+    <iframe src="/pdfjs/web/viewer.html?file={{ pdf_url }}" width="100%" height="800px" style="border: none;">
+        <p>Your browser does not support PDFs.
+            <a href="{{ pdf_url }}">Download the PDF</a>.
+        </p>
+    </iframe>
+    <iframe src="/pdfjs/web/viewer.html?file={{ section.extra.pdf_path }}" width="100%" height="800px" style="border: none;">
+        <p>Your browser does not support PDFs.
+            <a href="{{ section.extra.pdf_path }}">Download the PDF</a>.
+        </p>
+    </iframe>
+</main>
+
+{% if paginator %}
+{%- include "partials/paginate.html" -%}
+{% endif %}
 {% endblock main_content %}
