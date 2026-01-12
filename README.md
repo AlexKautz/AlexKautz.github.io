@@ -1,2 +1,3 @@
-Code for personal website https://alexkautz.github.io/
-
+Code for my personal website.
+* https://alexkautz.github.io/ 
+* https://gkautz.net/
