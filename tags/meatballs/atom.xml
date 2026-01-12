@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://gkautz.net/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <tabi:metadata xmlns:tabi="https://github.com/welpo/tabi">
+        <tabi:base_url>https:&#x2F;&#x2F;gkautz.net&#x2F;</tabi:base_url>
+        <tabi:separator>
+            •
+        </tabi:separator>
+        <tabi:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It&#x27;s free.</tabi:about_feeds>
+        <tabi:visit_the_site>Visit website</tabi:visit_the_site>
+        <tabi:recent_posts>Recent posts</tabi:recent_posts>
+        <tabi:last_updated_on>Updated on $DATE</tabi:last_updated_on>
+        <tabi:default_theme>light</tabi:default_theme>
+        <tabi:post_listing_date>date</tabi:post_listing_date>
+        <tabi:current_section>meatballs</tabi:current_section>
+    </tabi:metadata><title>Alex Kautz - meatballs</title>
+        <subtitle>Alex Kautz Personal Website</subtitle>
+    <link href="https://gkautz.net/tags/meatballs/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://gkautz.net/tags/meatballs/" rel="alternate" type="text/html"/>
+    <generator uri="https://www.getzola.org/">Zola</generator><updated>2025-12-29T00:00:00+00:00</updated><id>https://gkautz.net/tags/meatballs/atom.xml</id><entry xml:lang="en">
+        <title>🚧My Moms Famous Meatball Recipe🚧</title>
+        <published>2025-12-29T00:00:00+00:00</published>
+        <updated>2025-12-29T00:00:00+00:00</updated>
+        <author>
+            <name>Alex Kautz</name>
+        </author>
+        <link rel="alternate" href="https://gkautz.net/blog/meatball/" type="text/html"/>
+        <id>https://gkautz.net/blog/meatball/</id>
+        
+            <content type="html">&lt;h1 id=&quot;construction-worker-male-sign-under-constructionconstruction-worker-female-sign&quot;&gt;👷‍♂️Under Construction👷‍♀️&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;into&quot;&gt;Into&lt;&#x2F;h2&gt;
+&lt;p&gt;While visiting my parents for Christmas, I learned the secrets of her delicious and relatively healthy meatballs. Now I am sharing it with you.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;preparing-the-ingredients&quot;&gt;Preparing the Ingredients&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;collect-the-following-vegetables&quot;&gt;Collect the following vegetables:&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;4 Cloves of Garlic&lt;&#x2F;li&gt;
+&lt;li&gt;1 Large Onion (any color)&lt;&#x2F;li&gt;
+&lt;li&gt;1 Large peppers (red, green, yellow, or any other color)&lt;&#x2F;li&gt;
+&lt;li&gt;2 Jalapeño peppers (optional)&lt;&#x2F;li&gt;
+&lt;li&gt;1&#x2F;2 cup parsley
+Wash each one and place it in a large bowl.
+Place a cutting board and sharp knife next to the bowl&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;collect-the-following-meats&quot;&gt;Collect the following meats:&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1 pound ground pork or 1 pound pork bulk-sausage (that’s the sausage filling without the wrap)&lt;&#x2F;li&gt;
+&lt;li&gt;2 pounds ground beef
+Meat needs to be defrosted. If your meat is frozen, either leave it in the fridge overnight and cook tomorrow or buy some new meat from a nearby store.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;collect-the-following-panada-ingredients&quot;&gt;Collect the following Panada ingredients:&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2 cups breadcrumbs&lt;&#x2F;li&gt;
+&lt;li&gt;2 cups of milk&lt;&#x2F;li&gt;
+&lt;li&gt;1 teaspoon pepper&lt;&#x2F;li&gt;
+&lt;li&gt;1 tablespoon of salt&lt;&#x2F;li&gt;
+&lt;li&gt;2 tablespoons oregano&lt;&#x2F;li&gt;
+&lt;li&gt;1 tablespoon crushed red pepper&lt;&#x2F;li&gt;
+&lt;li&gt;4 eggs&lt;&#x2F;li&gt;
+&lt;li&gt;.7 cups of Parmesan cheese&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;create-the-panada&quot;&gt;Create the Panada&lt;&#x2F;h2&gt;
+&lt;p&gt;🚧🚧🚧🚧 TODO 🚧🚧🚧🚧&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">👷‍♂️Under Construction👷‍♀️ Learn how to prepare delicious and relatively healthy meatballs!</summary>
+        </entry>
+</feed>
